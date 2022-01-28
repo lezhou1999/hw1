@@ -1,0 +1,12 @@
+a).two run
+b).first run:
+1st+2=3
+2nd+2=3
+second run:
+1st+2=5
+2nd+2=5
+so 1st = 2nd = 3rd = 5cm^3
+c).{1.1.5}
+{3.3.5}
+{5.5.5}
+d)9points
